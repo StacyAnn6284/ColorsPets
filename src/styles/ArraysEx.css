@@ -1,0 +1,13 @@
+.ArraysEx {
+  width: 300px;
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 20px;
+}
+
+.ArraysEx ol {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  justify-content: center;
+}
